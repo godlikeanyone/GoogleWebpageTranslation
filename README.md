@@ -4,3 +4,4 @@ This is a translation for webpage in JavaScript. You can choose between Google a
 
 ## Instructions
 
+Simply copy the code and add to favorite in any browsers which support JavaScript.
