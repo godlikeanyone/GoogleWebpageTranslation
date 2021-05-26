@@ -4,4 +4,4 @@ This is a translating tool for webpage written in JavaScript. You can choose bet
 
 ## Instructions
 
-Simply copy the code and add to favorite in any browsers which support JavaScript.
+Simply copy the code and add to the bookmark in any browsers which support JavaScript.
